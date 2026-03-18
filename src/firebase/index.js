@@ -2,7 +2,7 @@ import firebase from 'firebase';
 
 
 const firebaseConfig = {
-    apiKey: "AIzaSyCQYusPCntKpkQ-DHcIvWh-XI4OY7zhM3s",
+    apiKey: "",
     authDomain: "photoapp-7e7f1.firebaseapp.com",
     databaseURL: "https://photoapp-7e7f1.firebaseio.com",
     projectId: "photoapp-7e7f1",
